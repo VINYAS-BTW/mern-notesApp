@@ -1,1 +1,1 @@
-Notes App completeyy based on MERN - Did From Scratch 
+Notes App completely based on MERN - Did From Scratch 
