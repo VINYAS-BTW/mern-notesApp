@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom"; // fixed: should be react-router-dom
+import { Link } from "react-router-dom"; 
 import { PenLine, Trash2Icon } from "lucide-react";
 import api from "../../lib/axios";
 import toast from "react-hot-toast";
