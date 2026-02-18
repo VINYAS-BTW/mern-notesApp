@@ -70,7 +70,8 @@ export async function deleteanote(req,res)
 
   } catch (error) {
     console.error(error);
-    res.status(500).json({message:"controller-error"})
+    res.status(500).json({message:"controller-"})
+    
   }
     
   
